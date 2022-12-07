@@ -1,0 +1,14 @@
+.profileListItem-container {
+  max-width: 700px;
+  border: 1px solid black;
+}
+.profileListItem-header {
+  height: 100px;
+  background-color: grey;
+}
+.profileListItem-body {
+  display: flex;
+}
+.profileListItem-column {
+  flex-basis: 50%;
+}
